@@ -1,6 +1,6 @@
 # Dashboard de Análise de Vendas
 
-Projeto de análise de dados de vendas desenvolvido para a disciplina .
+Projeto de análise de dados de vendas desenvolvido para a disciplina Visualização de Dados na CESAR School.
 
 O usuário pode selecionar o período que deseja analisar, escolher produtos específicos e comparar dois ou mais períodos.
 
