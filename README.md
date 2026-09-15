@@ -10,8 +10,8 @@ O usuário pode selecionar o período que deseja analisar, escolher produtos esp
 * Filtro por produtos;
 * Gráfico temporal de vendas;
 * Comparação entre múltiplos períodos;
-* Gráfico de vendas por cidade;
-* Gráfico de quantidade de produtos vendidos.
+* Gráfico de proporção de vendas por cidade;
+* Gráfico de proporção de quantidade de produtos vendidos.
 
 ## Controles
 
