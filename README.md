@@ -81,12 +81,4 @@ O dashboard é iniciado com:
 streamlit run MAIN/dashboard.py
 ```
 
-## Tecnologias
 
-* Python
-* Pandas
-* NumPy
-* Streamlit
-* Plotly
-* Docker
-* GNU Make
