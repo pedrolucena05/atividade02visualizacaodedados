@@ -29,7 +29,7 @@ Sobrepõe os gráficos dos diferentes períodos em uma única visualização.
 
 Os períodos são alinhados pelo início da análise, permitindo comparar o comportamento das vendas independentemente da data real.
 
-Para melhor visualização, recomenda-se utilizar essa opção com períodos de até aproximadamente **3 meses**.
+Para melhor visualização, é recomendado utilizar essa opção com períodos de até aproximadamente **3 meses**.
 
 ## Executando com Docker
 
