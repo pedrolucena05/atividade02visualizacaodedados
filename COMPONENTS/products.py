@@ -1,0 +1,22 @@
+products = {
+    "Wireless Mouse": 2001,
+    "Mechanical Keyboard": 2002,
+    "USB-C Cable": 2003,
+    "Power Bank": 2004,
+    "Laptop Stand": 2005,
+    "Webcam": 2006,
+    "Headphones": 2007,
+    "Phone Case": 2008,
+    "Smart Watch": 2009,
+    "Fitness Band": 2010,
+    "Desk Lamp": 2011,
+    "Office Chair": 2012,
+    "Notebook": 2013,
+    "Backpack": 2014,
+    "Bluetooth Speaker": 2015,
+    "Monitor": 2016,
+    "HDMI Cable": 2017,
+    "Microphone": 2018,
+    "Tablet": 2019,
+    "Gaming Controller": 2020
+}
